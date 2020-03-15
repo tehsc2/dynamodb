@@ -10,8 +10,9 @@ POC dynamodb aws
 # Comandos Utilizados
 
 Para configurar o accessKey e secretKey e região no aws cli
-
+```
 $ aws configure
+```
 
 Após baixar a imagem do dynamo no docker, rode localmente:
 
