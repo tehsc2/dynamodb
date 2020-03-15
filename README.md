@@ -1,0 +1,2 @@
+# dynamodb
+POC dynamodb aws
