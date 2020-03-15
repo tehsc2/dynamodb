@@ -1,2 +1,0 @@
-# dynamodb
-POC dynamodb aws
